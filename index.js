@@ -1,17 +1,17 @@
 
-//  [BWM-XMD QUANTUM EDITION]                                           
+//  [LORD RAHL EDITION]                                           
 //  >> A superposition of elegant code states                           
 //  >> Collapsed into optimal execution                                
-//  >> Scripted by Sir Ibrahim Adams                                    
+//  >> Scripted by lord Rahl                                    
 //  >> Version: 8.3.5-quantum.7
 
 const axios = require('axios');
 const cheerio = require('cheerio');
-const adams = require("./config");
+const master = require("./config");
 
 async function fetchBODYUrl() {
   try {
-    const response = await axios.get(adams.BWM_XMD);
+    const response = await axios.get(mastre.LORD RAHL_XMD);
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("BODY")');
