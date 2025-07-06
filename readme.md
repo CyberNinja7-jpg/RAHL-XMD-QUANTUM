@@ -13,8 +13,8 @@
 
 <!-- Banner Image -->
 <p align="center">  
-  <a href="./lord-rahl-banner.png">  
-    <img src="./lord-rahl-banner.png" width="100%" height="auto">  
+  <a href="https://raw.githubusercontent.com/CyberNinja7-jpg/RAHL-XMD-QUANTUM/main/lord-rahl-banner.png">  
+    <img src="https://raw.githubusercontent.com/CyberNinja7-jpg/RAHL-XMD-QUANTUM/main/lord-rahl-banner.png" width="100%" height="auto">  
   </a>  
 </p>
 
