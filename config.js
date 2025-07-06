@@ -1,5 +1,5 @@
 
-//═══════[ BWM XMD QUANTUM VERSION ]═══════✧//
+//═══════[ LORD RAHL XMD VERSION ]═══════✧//
 
 
 
