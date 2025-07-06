@@ -13,8 +13,8 @@
 
 <!-- Banner Image -->
 <p align="center">  
-  <a href="./file_00000000eaf06230bad3121e1e1c7632.png">  
-    <img src="./file_00000000eaf06230bad3121e1e1c7632.png" width="100%" height="auto">  
+  <a href="./lord-rahl-banner.png">  
+    <img src="./lord-rahl-banner.png" width="100%" height="auto">  
   </a>  
 </p>
 
