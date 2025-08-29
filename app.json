@@ -1,9 +1,7 @@
-
-
 {
-  "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
-  "keywords": ["bot", "node", "baileys", "whatsapp"],
+  "name": "LORD-RAHL",
+  "description": "A dark, powerful WhatsApp bot created by Ibrahim Adams",
+  "keywords": ["bot", "node", "baileys", "whatsapp", "dark", "evil"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
   "success_url": "/",
@@ -25,13 +23,13 @@
       "required": false
     },
     "AUTO_REPLY_STATUS": {
-      "description": "Enter yes for your bot to notify people that you have viewed there status",
+      "description": "Enter yes for your bot to notify people that you have viewed their status",
       "value": "no",
       "required": false
     },
     "REPLY_STATUS_TEXT": {
-      "description": "Enter here your message for your bot to notify people that you have viewed there status",
-      "value": "ʏᴏᴜʀ sᴛᴀᴛᴜs ʜᴀᴠᴇ ʙᴇᴇɴ ᴠɪᴇᴡᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ✅",
+      "description": "Enter here your message for your bot to notify people that you have viewed their status",
+      "value": "ʏᴏᴜʀ sᴛᴀᴛᴜs ʜᴀs ʙᴇᴇɴ ᴅᴇᴠᴏᴜʀᴇᴅ 👁️‍🗨️",
       "required": false
     },
     "AUTO_READ_STATUS": {
@@ -51,7 +49,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "Lord Rahl",
       "required": false
     },
     "BOT_URL": {
@@ -81,7 +79,7 @@
     },
     "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💀,🩸,🌑,🔥",
       "required": false 
     },
     "AUTO_REACT": {
@@ -140,7 +138,7 @@
       "required": false
     },
     "GOODBYE_MESSAGE": {
-      "description": "Enable  goodbye in groups (yes/no)",
+      "description": "Enable goodbye in groups (yes/no)",
       "value": "no",
       "required": false
     },
@@ -156,7 +154,7 @@
     },
     "MENU_BOT_NAME_LINE": {
       "description": "Bot name line",
-      "value": "│ ",
+      "value": "│ Lord Rahl",
       "required": false
     },
     "MENU_BOTTOM_LEFT": {
@@ -166,7 +164,7 @@
     },
     "MENU_GREETING_LINE": {
       "description": "Greeting line",
-      "value": "┌┤ ",
+      "value": "┌┤ Lord Rahl",
       "required": false
     },
     "MENU_DIVIDER": {
